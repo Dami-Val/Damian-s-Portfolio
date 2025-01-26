@@ -41,19 +41,20 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 ### 📫 **Contact Me**
 📢 Let’s Connect! Whether it’s video games, web design, or cutting-edge software, I’m excited to collaborate and create something extraordinary. 🤝💻
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Dami-Val)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)]([https://instagram.com/tu_usuario](https://www.instagram.com/damival_/))
-[![X](https://img.shields.io/badge/-X-1DA1F2?logo=twitter&logoColor=white)]([https://x.com/tu_usuario](https://x.com/damival_))
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)
-[![Teléfono](https://img.shields.io/badge/-Teléfono-25D366?logo=whatsapp&logoColor=white)](tel:+523141741239)
+
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-Teléfono-25D366?logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white)](https://x.com/damival_)
+
+
+
+
 
 ---
 
 ### 🌐 My favorite services:
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,notion,azure,vim,git,gitlab,fastapi,flutter,linux,windows,apple,ubuntu,ps,ai,pr,ae,xd,au,unreal,unity,linkedin,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,notion,azure,vim,git,gitlab,fastapi,flutter,linkedin,windows,apple,linux,ubuntu,ps,ai,pr,ae,xd,au,unreal,unity,&perline=12)](https://skillicons.dev)
 
 [![GitHub](https://img.shields.io/github/followers/Dami-Val?style=social)](https://github.com/Dami-Val)
 
