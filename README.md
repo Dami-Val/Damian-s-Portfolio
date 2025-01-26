@@ -1,7 +1,7 @@
 💻 **Software Engineering Student** | 🌐 Web Full Stack | 🎮 Game Developer | 🎯Leader in Technological Projects
 
 # 👋  Hello guys! My name is Damian,
-I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, UDC, I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
+I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
 
 ✨ I'm passionate about creating innovative solutions that make a difference.  
 🔭 Currently working on: **[Damian's Portfolio](https://github.com/Dami-Val/Damian-s-Portfolio.git)**  
@@ -43,7 +43,8 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 
 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-Teléfono-25D366?logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white)](https://x.com/damival_)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-Teléfono-25D366?logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white)](https://x.com/damival_) 
+
 
 
 ---
