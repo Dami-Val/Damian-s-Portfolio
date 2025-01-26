@@ -1,6 +1,6 @@
 💻 **Software Engineering Student** | 🌐 Web Full Stack | 🎮 Game Developer | 🎯Leader in Technological Projects
 
-# 👋  Hello guys! My name is Damian,
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello guys! My name is Damian,
 I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
 
 ✨ I'm passionate about creating innovative solutions that make a difference.  
@@ -38,7 +38,8 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 ### 🚀 My Mission 
 To grow as a developer, collaborate on innovative projects, and leave a meaningful mark in the tech world.
-
+ <img src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="40" />
+ 
 ---
 
 ### 📫 **Contact Me**
