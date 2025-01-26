@@ -58,7 +58,7 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 
 ---
 
-# 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥, 𝘴𝘦 𝘺𝘰𝘶 𝘴𝘰𝘰𝘯!
+# 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥, 𝘴𝘦𝘦 𝘺𝘰𝘶 𝘴𝘰𝘰𝘯!
 
 ![car](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFjbWExaXFwc3BxZ2t2YjE2NzAxeGMwMWZ1cDBnOXE4ODdjcnMzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif)
 
