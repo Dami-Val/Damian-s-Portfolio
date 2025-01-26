@@ -1,0 +1,184 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    --border-radius: 100px;
+    --blue: #1c47ff;
+    --pink: #d6a3fb;
+    --green: #d0ff94;
+    --grey: #e5e5e5;
+    --gutter: 3.125vw;
+
+    margin: 0;
+    padding: 0;
+    background: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Syne', sans-serif;
+}
+
+h1 {
+    font-size: 80px;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 60px;
+    margin: 0px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+section {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: calc(100vh - 100px);
+    top: 100px;
+    z-index: 2;
+}
+
+section.sticky {
+    position: sticky;
+    margin-top: 100px;
+}
+
+section.full-screen {
+    height: 100vh;
+    top: 0;
+    margin-top: 0;
+    z-index: 3;
+}
+
+/* navigation */
+
+nav {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    top: 0;
+    left: 0;
+    font-size: 20px;
+    z-index: 1;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none;
+    margin-left: 45px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    font-family: 'Space Mono', monospace;
+}
+
+/* about section */
+
+section.about .empty {
+    flex-basis: 37.5vw;
+    background: var(--grey);
+    border-radius: var(--border-radius);
+}
+
+section.about article {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+section.about article .title {
+    flex: 2;
+    display: flex;
+    align-items: flex-end;
+    background: var(--blue);
+    border-radius: var(--border-radius);
+    padding: var(--gutter);
+}
+
+section.about article .description {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    background: var(--pink);
+    border-radius: var(--border-radius);
+    padding: var(--gutter);
+    color: #000000;
+}
+
+/* service section */
+
+section.service article {
+    display: flex;
+    width: 100%;
+}
+
+section.service figure {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-basis: 56.25vw;
+    margin: 0;
+    background: var(--green);
+    border-radius: var(--border-radius);
+}
+
+section.service figure img {
+    width: 50%;
+}
+
+section.service .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    background: #1f1a1c;
+    padding: var(--gutter);
+    border-radius: var(--border-radius);
+}
+
+section.service .text a {
+    font-family: 'Space Mono', monospace;
+}
+
+/* service section overrides */
+
+section.service.service-html figure {
+    background: var(--green);
+}
+
+section.service.service-html .text h2,
+section.service.service-html .text a {
+    color: var(--pink);
+}
+
+section.service.service-css figure {
+    background: var(--blue);
+}
+
+section.service.service-css .text h2,
+section.service.service-css .text a {
+    color: var(--green);
+}
+
+section.service.service-js figure {
+    background: var(--pink);
+}
+
+section.service.service-js .text h2,
+section.service.service-js .text a {
+    color: var(--blue);
+}
