@@ -18,7 +18,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 - ⭐ Project Management: Successfully leading multidisciplinary teams and delivering high-quality products on time ⏳.
 - 🎨 Creativity and Design: Developing interactive experiences with an emphasis on visual storytelling and details ✨🎭.
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,c" />
   </a>
 </p>
@@ -53,8 +53,7 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 
 ### 🌐 My favorite softwares & services
 
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,notion,azure,vim,git,gitlab,fastapi,flutter,linkedin,windows,apple,linux,ubuntu,ps,ai,pr,ae,xd,au,unreal,unity,&perline=12)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,notion,azure,vim,git,gitlab,fastapi,flutter,linkedin,windows,apple,linux,ubuntu,ps,ai,pr,ae,xd,au,unreal,unity,&perline=12)
 
 ---
 
@@ -63,6 +62,11 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 ![car](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFjbWExaXFwc3BxZ2t2YjE2NzAxeGMwMWZ1cDBnOXE4ODdjcnMzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif)
 
 
+---
+
+### Other services...
+
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,notion,azure,vim,git,gitlab,fastapi,flutter,linkedin,windows,apple,linux,ubuntu,ps,ai,pr,ae,xd,au,unreal,unity,ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,androidstudio,angular,ansible,apollo,apple,appwrite,arch,arduino,astro,atom,au,autocad,aws,azul,azure,babel,bash,bevy,bitbucket,blender,bootstrap,bsd,bun,c,cs,cpp,crystal,cassandra,clion,clojure,cloudflare,cmake,codepen,coffeescript,css,cypress,d3,dart,debian,deno,devto,discord,bots,discordjs,django,docker,dotnet,dynamodb,eclipse,elasticsearch,electron,elixir,elysia,emacs,ember,emotion,express,fastapi,fediverse,figma,firebase,flask,flutter,forth,fortran,gamemakerstudio,gatsby,gcp,git,github,githubactions,gitlab,gmail,gherkin,go,gradle,godot,grafana,graphql,gtk,gulp,haskell,haxe,haxeflixel,heroku,hibernate,html,htmx,idea,ai,instagram,ipfs,java,js,jenkins,jest,jquery,kafka,kali,kotlin,ktor,kubernetes,laravel,latex,less,linkedin,linux,lit,lua,md,mastodon,materialui,matlab,maven,mint,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nim,nix,nodejs,notion,npm,nuxtjs,obsidian,ocaml,octave,opencv,openshift,openstack,p5js,perl,ps,php,phpstorm,pinia,pkl,plan9,planetscale,pnpm,postgres,postman,powershell,pr,prisma,processing,prometheus,pug,pycharm,py,pytorch,qt,r,rabbitmq,rails,raspberrypi,react,reactivex,redhat,redis,redux,regex,remix,replit,rider,robloxstudio,rocket,rollupjs,ros,ruby,rust,sass,spring,sqlite,stackoverflow,styledcomponents,sublime,supabase,scala,sklearn,selenium,sentry,sequelize,sketchup,solidity,solidjs,svelte,svg,swift,symfony,tailwind,tauri,tensorflow,terraform,threejs,twitter,ts,ubuntu,unity,unreal,v,vala,vercel,vim,visualstudio,vite,vitest,vscode,vscodium,vue,vuetify,wasm,webflow,webpack,webstorm,windicss,windows,wordpress,workers,xd,yarn,yew,zig,&perline=19)
 
 
 
