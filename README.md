@@ -1,15 +1,14 @@
-![My Banner](img/my_banner.png)
+![My Banner](img/dam_banner.png)
+
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello guys! My name is Damian,
 I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
 
+✨ I'm passionate about creating innovative solutions that make a difference.
+##
+## 🔭 Currently working on: [![Damian's Portfolio](https://img.shields.io/badge/-Damian's%20Portfolio-000000?style=flat&logo=github&logoColor=green&labelColor=000000)](https://github.com/Dami-Val/Damian-s-Portfolio.git)
 
-✨ I'm passionate about creating innovative solutions that make a difference.  
-🔭 Currently working on: **[Damian's Portfolio](https://github.com/Dami-Val/Damian-s-Portfolio.git)**  
-🎮  Last proyect: **[AnimalBots Rescue](https://github.com/Dami-Val/AnimalBots-Rescue)**  
-
----
-
+## 🎮 Last project: [![AnimalBots Rescue](https://img.shields.io/badge/-AnimalBots%20Rescue-000000?style=flat&logo=github&logoColor=white&labelColor=000000)](https://github.com/Dami-Val/AnimalBots-Rescue)
 
 
 
@@ -41,7 +40,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Dami-Val&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
----
+##
 
 ### 📊 Stats & Languages  
 
@@ -51,7 +50,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
   </tr>
 
 
----
+##
 
 ### 🚀 Activity & Achievements
 
@@ -64,7 +63,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 </div>
 
----
+##
 
 
 
@@ -72,7 +71,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 To grow as a developer, collaborate on innovative projects, and leave a meaningful mark in the tech world.
  <img src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="40" />
  
----
+##
 
 ### 📫 **Contact Me**
 📢 Let’s Connect! Whether it’s video games, web design, or cutting-edge software, I’m excited to collaborate and create something extraordinary. 🤝💻
@@ -80,9 +79,4 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/damian-valencia)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-Teléfono-25D366?logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white)](https://x.com/damival_) 
-
-
-
-
-
 
