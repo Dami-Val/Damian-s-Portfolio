@@ -182,3 +182,12 @@ section.service.service-js .text h2,
 section.service.service-js .text a {
     color: var(--blue);
 }
+
+/* contact section */
+
+section.contact {
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(var(--blue), var(--green) 60%, var(--pink)70%);
+
+}
