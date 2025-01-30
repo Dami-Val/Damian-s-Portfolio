@@ -1,0 +1,12 @@
+name: Quickdraw Workflow
+
+on: push
+
+jobs:
+  quickdraw:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Quick task
+      run: echo "Quickdraw achievement!"
