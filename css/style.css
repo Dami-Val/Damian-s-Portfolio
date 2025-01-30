@@ -197,3 +197,7 @@ section.contact a {
     font-size: 100px;
     color: #000000;
 }
+
+section.contact a:hover {
+    color: #ffffff;
+}
