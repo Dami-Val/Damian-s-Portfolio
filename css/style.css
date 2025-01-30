@@ -189,5 +189,11 @@ section.contact {
     align-items: center;
     justify-content: center;
     background: linear-gradient(var(--blue), var(--green) 60%, var(--pink)70%);
+    border-radius: var(--border-radius);
 
+}
+
+section.contact a {
+    font-size: 100px;
+    color: #000000;
 }
