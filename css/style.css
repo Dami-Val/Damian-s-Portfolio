@@ -195,5 +195,7 @@ section.contact {
 
 section.contact a {
     font-size: 100px;
+    font-weight: bold;
     color: #000000;
 }
+
