@@ -215,3 +215,7 @@ h1 {
 h1 {
     font-size: 40px;
 }
+
+nav ul li {
+    margin-left: 25px;
+}
