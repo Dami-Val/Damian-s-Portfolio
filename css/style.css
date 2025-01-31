@@ -231,3 +231,9 @@ section.service figure {
 section.service figure img {
     width: 20%;
 }
+
+section.contact a {
+    font-size: 50px;
+    transform: rotate(90deg);
+}
+
