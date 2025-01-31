@@ -199,4 +199,11 @@ section.contact a {
     color: #000000;
 }
 
+/* responsive */
 
+@media only screen and (max-width: 768px) {
+    html, body {
+        --border-radius: 50px;
+        --gutter: 6.25vw;
+    }
+}
