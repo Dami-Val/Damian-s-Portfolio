@@ -219,3 +219,15 @@ h1 {
 nav ul li {
     margin-left: 25px;
 }
+
+section.service article {
+    flex-direction: column;
+}
+
+section.service figure {
+    flex-basis: 25vh;
+}
+
+section.service figure img {
+    width: 20%;
+}
