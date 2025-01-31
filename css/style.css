@@ -52,7 +52,7 @@ section.full-screen {
     height: 100vh;
     top: 0;
     margin-top: 0;
-    z-index: 100;
+    z-index: 3;
 }
 
 /* navigation */
@@ -195,9 +195,5 @@ section.contact {
 
 section.contact a {
     font-size: 100px;
-    color: #000000;
-}
-
-section.contact a:hover {
     color: #000000;
 }
