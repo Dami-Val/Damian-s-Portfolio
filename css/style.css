@@ -154,6 +154,25 @@ section.service .text a {
     font-family: 'Space Mono', monospace;
 }
 
+/* service section animations */
+
+section.service.service-html figure img {
+    animation-name: float;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: cubic-bezier(.77,.28,.42,.93);
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(-20px);
+    }
+    100% {
+        transform: translateY(20px);
+    }
+}
+
 /* service section overrides */
 
 section.service.service-html figure {
@@ -188,39 +207,22 @@ section.service.service-js .text a {
 section.contact {
     align-items: center;
     justify-content: center;
-    background: linear-gradient(var(--blue), var(--green) 60%, var(--pink)70%);
+    background: linear-gradient(var(--blue), var(--green) 60%, var(--pink) 70%, var(--grey));
     border-radius: var(--border-radius);
-
+    mix-blend-mode: difference;
 }
 
 section.contact a {
     font-size: 100px;
-    font-weight: bold;
     color: #000000;
+    font-weight: bold;
+    transition: filter 2s cubic-bezier(.77,.28,.42,.93);
+    will-change: filter;
 }
 
-/* service section animations */
-
-section.service.service-html figure img {
-    animation-name: float;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    animation-timing-function: cubic-bezier(.77,.28,.42,.93);
+section.contact a:hover {
+    filter: blur(20px);
 }
-
-@keyframes float {
-    0% {
-        transform: translateY(-20px);
-    }
-    100% {
-        transform: translateY(20px);
-    }
-}
-
-
-
-
 /* responsive */
 
 @media only screen and (max-width: 768px) {
@@ -228,33 +230,39 @@ section.service.service-html figure img {
         --border-radius: 50px;
         --gutter: 6.25vw;
     }
+
+    h1 {
+        font-size: 60px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    nav ul li {
+        margin-left: 25px;
+    }
+
+    section.service article {
+        flex-direction: column;
+    }
+
+    section.service figure {
+        flex-basis: 25vh;
+    }
+
+    section.service figure img {
+        width: 20%;
+    }
+
+    section.contact a {
+        font-size: 50px;
+        transform: rotate(90deg);
+    }
+
 }
 
-h1 {
-    font-size: 60px;
-}
 
-h1 {
-    font-size: 40px;
-}
 
-nav ul li {
-    margin-left: 25px;
-}
 
-section.service article {
-    flex-direction: column;
-}
 
-section.service figure {
-    flex-basis: 25vh;
-}
-
-section.service figure img {
-    width: 20%;
-}
-
-section.contact a {
-    font-size: 50px;
-    transform: rotate(90deg);
-}
