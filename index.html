@@ -6,6 +6,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
         <link href="https://fonts.googleapis.com/css2?family=Space+Mono&family=Syne:wght@400;700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="css/style.css" />
+        <script src="script.js" defer></script>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charset="UTF-8">
     </head>
@@ -74,27 +75,6 @@
             <a href="mailto:hello@mail.com">hello@mail.com</a>
         </section>
 
-        <script>
-
-            let emptyElement = document.querySelector('.about .empty');
-            let titleElement = document.querySelector('.about .title');
-
-            let figureElements = document.querySelectorAll('.service figure');
-
-
-            window.addEventListener( 'mousemove', handleMouseMove);
-
-            function handleMouseMove( event ) {
-
-                emptyElement.style.flexBasis = event.clientX + 'px';
-                titleElement.style.flexBasis = event.clientY / 2 + 'px';
-
-                figureElements.forEach( function( element ) {
-                    element.style.flexBasis = (window.innerWidth - event.clientX) + 'px';
-                } );
-            }
-
-        </script>
 
     </body>
 </html>
