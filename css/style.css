@@ -9,7 +9,7 @@ body {
     --pink: #d6a3fb;
     --green: #d0ff94;
     --grey: #e5e5e5;
-    --gutter: 3.125vw;
+    --gutter: 3.125vw 6.25vw;
 
     margin: 0;
     padding: 0;
@@ -20,7 +20,8 @@ body {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 70px;
+    line-height: 1em;
     margin: 0px;
 }
 
@@ -92,6 +93,7 @@ section.about .empty {
     flex-basis: 37.5vw;
     background: var(--grey);
     border-radius: var(--border-radius);
+    transition: flex-basis 1s cubic-bezier(0,.9,.4,.99);
 }
 
 section.about article {
@@ -101,12 +103,13 @@ section.about article {
 }
 
 section.about article .title {
-    flex: 2;
+    flex: 1;
     display: flex;
     align-items: flex-end;
     background: var(--blue);
     border-radius: var(--border-radius);
     padding: var(--gutter);
+    transition: flex-basis 1s cubic-bezier(0,.9,.4,.99);
 }
 
 section.about article .description {
@@ -134,10 +137,12 @@ section.service figure {
     margin: 0;
     background: var(--green);
     border-radius: var(--border-radius);
+    max-width: 62.5vw;
+    transition: flex-basis 1s cubic-bezier(0,.9,.4,.99);
 }
 
 section.service figure img {
-    width: 50%;
+    width: 40%;
 }
 
 section.service .text {
@@ -164,12 +169,46 @@ section.service.service-html figure img {
     animation-timing-function: cubic-bezier(.77,.28,.42,.93);
 }
 
+section.service.service-css figure img {
+    animation-name: scale;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: cubic-bezier(.77,.28,.42,.93);
+}
+
+section.service.service-js figure img {
+    animation-name: rotate;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: cubic-bezier(.77,.28,.42,.93);
+}
+
 @keyframes float {
     0% {
-        transform: translateY(-20px);
+        transform: translateY(-5%);
     }
     100% {
-        transform: translateY(20px);
+        transform: translateY(5%);
+    }
+}
+
+@keyframes scale {
+    0% {
+        transform: scale(.75);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(180deg);
     }
 }
 
@@ -209,7 +248,7 @@ section.contact {
     justify-content: center;
     background: linear-gradient(var(--blue), var(--green) 60%, var(--pink) 70%, var(--grey));
     border-radius: var(--border-radius);
-    mix-blend-mode: difference;
+    /* mix-blend-mode: difference; */
 }
 
 section.contact a {
@@ -261,5 +300,8 @@ section.contact a:hover {
     }
 
 }
+
+
+
 
 
