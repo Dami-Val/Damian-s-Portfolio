@@ -7,6 +7,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Space+Mono&family=Syne:wght@400;700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="css/style.css" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta charset="UTF-8">
     </head>
     <body>
 
@@ -22,10 +23,10 @@
             <div class="empty"></div>
             <article>
                 <div class="title">
-                    <h1>Creative Developer</h1>
+                    <h1>Yannick Gregoire</h1>
                 </div>
                 <div class="description">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Hi! 👋 I'm a aesthetics focused creative developer based in Amsterdam. I pair with design studios to build handcrafted websites across established platforms.</p>
                 </div>
             </article>
         </section>
@@ -37,8 +38,8 @@
                 </figure>
                 <div class="text">
                     <h2>HTML</h2>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
-                    <a href="https://wikipedia.com">More about HTML</a>
+                    <p>The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.</p>
+                    <a href="https://en.wikipedia.org/wiki/HTML">More about HTML</a>
                 </div>
             </article>
         </section>
@@ -50,8 +51,8 @@
                 </figure>
                 <div class="text">
                     <h2>CSS</h2>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
-                    <a href="https://wikipedia.com">More about CSS</a>
+                    <p>Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.</p>
+                    <a href="https://en.wikipedia.org/wiki/CSS">More about CSS</a>
                 </div>
             </article>
         </section>
@@ -63,8 +64,8 @@
                 </figure>
                 <div class="text">
                     <h2>JS</h2>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
-                    <a href="https://wikipedia.com">More about JS</a>
+                    <p>JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. </p>
+                    <a href="https://en.wikipedia.org/wiki/JavaScript">More about JS</a>
                 </div>
             </article>
         </section>
@@ -72,6 +73,28 @@
         <section id="contact" class="contact full-screen">
             <a href="mailto:hello@mail.com">hello@mail.com</a>
         </section>
+
+        <script>
+
+            let emptyElement = document.querySelector('.about .empty');
+            let titleElement = document.querySelector('.about .title');
+
+            let figureElements = document.querySelectorAll('.service figure');
+
+
+            window.addEventListener( 'mousemove', handleMouseMove);
+
+            function handleMouseMove( event ) {
+
+                emptyElement.style.flexBasis = event.clientX + 'px';
+                titleElement.style.flexBasis = event.clientY / 2 + 'px';
+
+                figureElements.forEach( function( element ) {
+                    element.style.flexBasis = (window.innerWidth - event.clientX) + 'px';
+                } );
+            }
+
+        </script>
 
     </body>
 </html>
